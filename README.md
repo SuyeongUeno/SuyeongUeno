@@ -14,8 +14,9 @@
 ---
 
 ## 🗓️ Study Log
-- **2025.11.13 — Started learning Python & Git**
-
+- **2025.11.13 — Started learning Linux**
+- **2025.11.17 - Started learning Git & Github**
+- **2025.11.19 - Started learning Python**
 (updates will be added below as I grow)
 
 ---
