@@ -31,9 +31,9 @@ Not yet — but the first project is coming soon.
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SuyeongUeno&show_icons=true&theme=tokyonight&title_color=00C8FF&icon_color=00C8FF&text_color=FFFFFF&bg_color=0A0A0A" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SuyeongUeno&show_icons=true&theme=tokyonight&title_color=00C8FF&icon_color=00C8FF&text_color=000000&bg_color=FFFFFF" height="160px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeongUeno&layout=compact&theme=tokyonight&title_color=00C8FF&text_color=FFFFFF&bg_color=0A0A0A" height="160px"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuyeongUeno&layout=compact)
 
 </div>
 
